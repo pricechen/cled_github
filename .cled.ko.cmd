@@ -1,1 +1,0 @@
-cmd_/project/som-rk3399/driver_linux/cled/cled.ko := aarch64-linux-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /project/som-rk3399/driver_linux/cled/cled.ko /project/som-rk3399/driver_linux/cled/cled.o /project/som-rk3399/driver_linux/cled/cled.mod.o
